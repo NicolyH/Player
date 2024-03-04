@@ -36,7 +36,7 @@ Player de música da banda Rocketseat
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](http://127.0.0.1:5500/index.htm). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195050524500542670). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
